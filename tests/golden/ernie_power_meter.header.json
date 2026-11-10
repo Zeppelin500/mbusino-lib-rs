@@ -1,0 +1,25 @@
+{
+  "hex": "68 9E 9E 68 08 65 72 09 76 06 00 A5 25 1D 02 02 00 00 00 85 40 AB FF 01 00 36 0B 47 85 40 AB FF 02 00 2C FA 46 85 40 AB FF 03 00 74 ED 46 85 80 40 AB FF 01 00 C0 E2 44 85 80 40 AB FF 02 00 40 5A 45 85 80 40 AB FF 03 00 60 36 45 05 FD BA FF 01 78 BE 7F 3F 05 FD BA FF 02 40 35 7E 3F 05 FD BA FF 03 53 B8 7E 3F 05 FD C8 FF 04 00 90 7A 45 05 FD C8 FF 05 00 70 7B 45 05 FD C8 FF 06 00 80 7B 45 05 FD D9 FF 04 00 50 2A 47 05 FF 5A 00 00 FA 43 02 FD 3A C8 00 02 FD 3A 0A 00 0F 00 00 00 00 00 8B 16",
+  "header_ok": true,
+  "header": {
+    "len": 158,
+    "c_field": 8,
+    "address": 101,
+    "ci_field": 114,
+    "id": "00067609",
+    "manufacturer": "IME",
+    "version": 29,
+    "medium_code": 2,
+    "medium": "Electricity",
+    "access_counter": 2,
+    "status": 0,
+    "status_details": {
+      "battery_low": false,
+      "permanent_error": false,
+      "temporary_error": false,
+      "app_status": "no_error"
+    },
+    "signature": 0
+  },
+  "source": "real golden telegram tests/golden/ernie_power_meter.hex"
+}

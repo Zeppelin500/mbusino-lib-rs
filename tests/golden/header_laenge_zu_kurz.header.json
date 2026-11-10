@@ -1,0 +1,6 @@
+{
+  "hex": "68 06 06 68 08 00 72 11 22 33 44 55 66 77 88 99 AA BB CC DD EE FF 16",
+  "header_ok": false,
+  "header": {},
+  "source": "constructed frame with length field 6 (packet_size 12 < minimum length 19)"
+}

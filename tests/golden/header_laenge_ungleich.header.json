@@ -1,0 +1,6 @@
+{
+  "hex": "68 1F 1E 68 08 00 72 78 56 34 12 93 15 80 03 01 00 00 00 0D FD 11 05 42 41 33 32 31 0C 93 3A 03 00 00 00 CC 16",
+  "header_ok": false,
+  "header": {},
+  "source": "Elster telegram with L2 != L1 (decodeHeader returns false, no key)"
+}

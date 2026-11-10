@@ -1,0 +1,288 @@
+Slave Address: 20
+Records decoded: 30
+Error code: 0
+
+[
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0.395,
+    "units": "m³",
+    "name": "volume"
+  },
+  {
+    "vif": "0x6d",
+    "code": 25,
+    "value_scaled": 2.02602132e11,
+    "value_string": "2026-02-13 20:30:00",
+    "units": "YYYYMMDDhhmm",
+    "name": "time_point"
+  },
+  {
+    "vif": "0x6c",
+    "code": 24,
+    "value_scaled": 2e7,
+    "value_string": "2000-00-00",
+    "units": "YYYYMMDD",
+    "name": "time_point",
+    "storage": 1
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0,
+    "units": "m³",
+    "name": "volume",
+    "storage": 1
+  },
+  {
+    "vif": "0x6c",
+    "code": 24,
+    "value_scaled": 2.0260623e7,
+    "value_string": "2026-06-23",
+    "units": "YYYYMMDD",
+    "name": "time_point",
+    "storage": 1
+  },
+  {
+    "vif": "0x78",
+    "code": 34,
+    "value_scaled": 6.105332e7,
+    "name": "fab_number"
+  },
+  {
+    "vif": "0x6c",
+    "code": 24,
+    "value_scaled": 2.025063e7,
+    "value_string": "2025-06-30",
+    "units": "YYYYMMDD",
+    "name": "time_point",
+    "storage": 2
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0,
+    "units": "m³",
+    "name": "volume",
+    "storage": 2
+  },
+  {
+    "vif": "0x6c",
+    "code": 24,
+    "value_scaled": 2.0250731e7,
+    "value_string": "2025-07-31",
+    "units": "YYYYMMDD",
+    "name": "time_point",
+    "storage": 3
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0,
+    "units": "m³",
+    "name": "volume",
+    "storage": 3
+  },
+  {
+    "vif": "0x6c",
+    "code": 24,
+    "value_scaled": 2.0250831e7,
+    "value_string": "2025-08-31",
+    "units": "YYYYMMDD",
+    "name": "time_point",
+    "storage": 4
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0,
+    "units": "m³",
+    "name": "volume",
+    "storage": 4
+  },
+  {
+    "vif": "0x6c",
+    "code": 24,
+    "value_scaled": 2.025093e7,
+    "value_string": "2025-09-30",
+    "units": "YYYYMMDD",
+    "name": "time_point",
+    "storage": 5
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0,
+    "units": "m³",
+    "name": "volume",
+    "storage": 5
+  },
+  {
+    "vif": "0x6c",
+    "code": 24,
+    "value_scaled": 2.0251031e7,
+    "value_string": "2025-10-31",
+    "units": "YYYYMMDD",
+    "name": "time_point",
+    "storage": 6
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0,
+    "units": "m³",
+    "name": "volume",
+    "storage": 6
+  },
+  {
+    "vif": "0x6c",
+    "code": 24,
+    "value_scaled": 2.025113e7,
+    "value_string": "2025-11-30",
+    "units": "YYYYMMDD",
+    "name": "time_point",
+    "storage": 7
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0,
+    "units": "m³",
+    "name": "volume",
+    "storage": 7
+  },
+  {
+    "vif": "0x6c",
+    "code": 24,
+    "value_scaled": 2.0251231e7,
+    "value_string": "2025-12-31",
+    "units": "YYYYMMDD",
+    "name": "time_point",
+    "storage": 8
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0.169,
+    "units": "m³",
+    "name": "volume",
+    "storage": 8
+  },
+  {
+    "vif": "0x6c",
+    "code": 24,
+    "value_scaled": 2.0260131e7,
+    "value_string": "2026-01-31",
+    "units": "YYYYMMDD",
+    "name": "time_point",
+    "storage": 9
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0.342,
+    "units": "m³",
+    "name": "volume",
+    "storage": 9
+  },
+  {
+    "vif": "0x6c",
+    "code": 24,
+    "value_scaled": 2e7,
+    "value_string": "2000-00-00",
+    "units": "YYYYMMDD",
+    "name": "time_point",
+    "storage": 10
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0,
+    "units": "m³",
+    "name": "volume",
+    "storage": 10
+  },
+  {
+    "vif": "0x6c",
+    "code": 24,
+    "value_scaled": 2e7,
+    "value_string": "2000-00-00",
+    "units": "YYYYMMDD",
+    "name": "time_point",
+    "storage": 11
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0,
+    "units": "m³",
+    "name": "volume",
+    "storage": 11
+  },
+  {
+    "vif": "0x6c",
+    "code": 24,
+    "value_scaled": 2e7,
+    "value_string": "2000-00-00",
+    "units": "YYYYMMDD",
+    "name": "time_point",
+    "storage": 12
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0,
+    "units": "m³",
+    "name": "volume",
+    "storage": 12
+  },
+  {
+    "vif": "0x6c",
+    "code": 24,
+    "value_scaled": 2e7,
+    "value_string": "2000-00-00",
+    "units": "YYYYMMDD",
+    "name": "time_point",
+    "storage": 13
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0,
+    "units": "m³",
+    "name": "volume",
+    "storage": 13
+  }
+]
+
+[1] volume (0x13) = 0.395 m³
+[2] time_point (0x6d) = 2026-02-13 20:30:00 YYYYMMDDhhmm
+[3] time_point (0x6c) = 2000-00-00 YYYYMMDD
+[4] volume (0x13) = 0 m³
+[5] time_point (0x6c) = 2026-06-23 YYYYMMDD
+[6] fab_number (0x78) = 6.10533e+07
+[7] time_point (0x6c) = 2025-06-30 YYYYMMDD
+[8] volume (0x13) = 0 m³
+[9] time_point (0x6c) = 2025-07-31 YYYYMMDD
+[10] volume (0x13) = 0 m³
+[11] time_point (0x6c) = 2025-08-31 YYYYMMDD
+[12] volume (0x13) = 0 m³
+[13] time_point (0x6c) = 2025-09-30 YYYYMMDD
+[14] volume (0x13) = 0 m³
+[15] time_point (0x6c) = 2025-10-31 YYYYMMDD
+[16] volume (0x13) = 0 m³
+[17] time_point (0x6c) = 2025-11-30 YYYYMMDD
+[18] volume (0x13) = 0 m³
+[19] time_point (0x6c) = 2025-12-31 YYYYMMDD
+[20] volume (0x13) = 0.169 m³
+[21] time_point (0x6c) = 2026-01-31 YYYYMMDD
+[22] volume (0x13) = 0.342 m³
+[23] time_point (0x6c) = 2000-00-00 YYYYMMDD
+[24] volume (0x13) = 0 m³
+[25] time_point (0x6c) = 2000-00-00 YYYYMMDD
+[26] volume (0x13) = 0 m³
+[27] time_point (0x6c) = 2000-00-00 YYYYMMDD
+[28] volume (0x13) = 0 m³
+[29] time_point (0x6c) = 2000-00-00 YYYYMMDD
+[30] volume (0x13) = 0 m³

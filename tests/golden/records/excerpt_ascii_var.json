@@ -1,0 +1,14 @@
+{
+  "hex": "0D FD 11 05 42 41 33 32 31",
+  "records_decoded": 1,
+  "error_code": 0,
+  "records": [
+    {
+      "vif": "0xfd11",
+      "code": 46,
+      "value_string": "123AB",
+      "name": "customer"
+    }
+  ],
+  "source": "excerpt from the Elster telegram (tests/golden/elster.hex, bytes from offset 19)"
+}

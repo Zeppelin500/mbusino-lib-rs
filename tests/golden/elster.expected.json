@@ -1,0 +1,20 @@
+{
+  "slave_address": 0,
+  "records_decoded": 2,
+  "error_code": 0,
+  "records": [
+    {
+      "vif": "0xfd11",
+      "code": 46,
+      "value_string": "123AB",
+      "name": "customer"
+    },
+    {
+      "vif": "0x13",
+      "code": 3,
+      "value_scaled": 0.003,
+      "units": "m³",
+      "name": "volume"
+    }
+  ]
+}

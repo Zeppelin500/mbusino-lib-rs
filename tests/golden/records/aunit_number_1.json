@@ -1,0 +1,15 @@
+{
+  "hex": "01 FB 01 C8",
+  "records_decoded": 1,
+  "error_code": 0,
+  "records": [
+    {
+      "vif": "0xfb01",
+      "code": 1,
+      "value_scaled": 200000000.0,
+      "units": "Wh",
+      "name": "energy"
+    }
+  ],
+  "source": "MBusinoLib/test/aunit/test.cpp testF(DecoderTest, Number_1)"
+}

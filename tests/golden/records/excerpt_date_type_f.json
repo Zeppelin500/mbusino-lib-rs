@@ -1,0 +1,16 @@
+{
+  "hex": "04 6D 03 2A F1 2A",
+  "records_decoded": 1,
+  "error_code": 0,
+  "records": [
+    {
+      "vif": "0x6d",
+      "code": 25,
+      "value_scaled": 202310171000.0,
+      "value_string": "2023-10-17 10:03:00",
+      "units": "YYYYMMDDhhmm",
+      "name": "time_point"
+    }
+  ],
+  "source": "excerpt from the EFE heat meter (tests/golden/efe_heat_meter.hex)"
+}

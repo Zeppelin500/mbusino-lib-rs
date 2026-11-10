@@ -1,0 +1,15 @@
+{
+  "hex": "0D 00 C0 34 12",
+  "records_decoded": 0,
+  "error_code": 1,
+  "records": [
+    {
+      "vif": "0x0",
+      "code": 1,
+      "value_scaled": 0,
+      "units": "Wh",
+      "name": "energy"
+    }
+  ],
+  "source": "constructed per EN 13757 DIF 0x0D + LVAR C0..CF (positive BCD)"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "efe_heat_meter",
+  "bytes": 199,
+  "declared_length": 193,
+  "records": 29,
+  "error_code": 0,
+  "checksum": "0x75 (valid)",
+  "manufacturer": "EFE",
+  "id": "73753409",
+  "medium": "0x0D Heat (Mass)",
+  "address": 0,
+  "src": "MBusino/archive/telegram_test/telegram_test.ino:94 (ACTIVE mbus_data[], the line comment above it says \"Engelmann\"; identical bytes also in MBusinoLib/examples/MbusinoLibExample/MbusinoLibExample.ino:14, MBusino/playground/MBusino5S_64c/MBusino5S_64c.ino:685, MBusino/playground/MBusino5S_mt/MBusino5S_mt.ino:684, MBusino/playground/MBusinoSlave/mbusSlave.h:17-20 (FIXED_TELEGRAM, the verbatim comment in line 17 reads \"EFE Waermezaehler from MBusinoNano5S line 667\")) and in many more MBusino sketches",
+  "note": "decodeHeader() reports the manufacturer as EFE (the source labels the same telegram \"Engelmann\" elsewhere - the header wins). Used as the reference for the long record set including date, double-volume and extension-VIF records."
+}

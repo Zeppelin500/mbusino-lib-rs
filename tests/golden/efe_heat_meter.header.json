@@ -1,0 +1,25 @@
+{
+  "hex": "68 C1 C1 68 08 00 72 09 34 75 73 C5 14 00 0D 43 00 00 00 04 78 41 63 65 04 04 06 AA 29 00 00 04 13 40 A1 75 00 04 2B 00 00 00 00 14 2B 3C F3 00 00 04 3B 48 06 00 00 14 3B 4E 0E 00 00 02 5B 19 00 02 5F 19 00 02 61 FA FF 02 23 AC 08 04 6D 03 2A F1 2A 44 06 92 0C 00 00 44 13 2D 9B 1C 00 42 6C DF 2C 01 FD 17 00 03 FD 0C 05 00 00 84 10 06 1A 00 00 00 C4 10 06 05 00 00 00 84 20 06 00 00 00 00 C4 20 06 00 00 00 00 84 30 06 00 00 00 00 C4 30 06 00 00 00 00 84 40 13 00 00 00 00 C4 40 13 00 00 00 00 84 80 40 13 00 00 00 00 C4 80 40 13 00 00 00 00 84 C0 40 13 00 00 00 00 C4 C0 40 13 00 00 00 00 75 16",
+  "header_ok": true,
+  "header": {
+    "len": 193,
+    "c_field": 8,
+    "address": 0,
+    "ci_field": 114,
+    "id": "73753409",
+    "manufacturer": "EFE",
+    "version": 0,
+    "medium_code": 13,
+    "medium": "Heat (Mass)",
+    "access_counter": 67,
+    "status": 0,
+    "status_details": {
+      "battery_low": false,
+      "permanent_error": false,
+      "temporary_error": false,
+      "app_status": "no_error"
+    },
+    "signature": 0
+  },
+  "source": "real golden telegram tests/golden/efe_heat_meter.hex"
+}

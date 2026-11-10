@@ -1,0 +1,103 @@
+Slave Address: 2
+Records decoded: 12
+Error code: 0
+
+[
+  {
+    "vif": "0xfd1b",
+    "code": 50,
+    "value_scaled": 0,
+    "name": "digital_input"
+  },
+  {
+    "vif": "0xfc00",
+    "code": 121,
+    "value_scaled": 59.86,
+    "units": "%RH",
+    "name": "customized_vif"
+  },
+  {
+    "vif": "0xfc00",
+    "code": 121,
+    "value_scaled": 59.8,
+    "units": "%RH",
+    "name": "customized_vif_min"
+  },
+  {
+    "vif": "0xfc00",
+    "code": 121,
+    "value_scaled": 59.92,
+    "units": "%RH",
+    "name": "customized_vif_max"
+  },
+  {
+    "vif": "0x65",
+    "code": 22,
+    "value_scaled": 22.1,
+    "units": "°C",
+    "name": "external_temperature"
+  },
+  {
+    "vif": "0x65",
+    "code": 22,
+    "value_scaled": 22.06,
+    "units": "°C",
+    "name": "external_temperature_min"
+  },
+  {
+    "vif": "0x65",
+    "code": 22,
+    "value_scaled": 22.1,
+    "units": "°C",
+    "name": "external_temperature_max"
+  },
+  {
+    "vif": "0x72",
+    "code": 28,
+    "value_scaled": 0,
+    "units": "h",
+    "name": "avg_duration"
+  },
+  {
+    "vif": "0x65",
+    "code": 22,
+    "value_scaled": 0,
+    "units": "°C",
+    "name": "external_temperature_err",
+    "storage": 1
+  },
+  {
+    "vif": "0x65",
+    "code": 22,
+    "value_scaled": 0,
+    "units": "°C",
+    "name": "external_temperature_err",
+    "storage": 2
+  },
+  {
+    "vif": "0x78",
+    "code": 34,
+    "value_scaled": 2.4008211e7,
+    "name": "fab_number"
+  },
+  {
+    "vif": "0xfd0f",
+    "code": 44,
+    "value_scaled": 198917,
+    "name": "software_version",
+    "telegramFollow": 1
+  }
+]
+
+[1] digital_input (0xfd1b) = 0
+[2] customized_vif (0xfc00) = 59.86 %RH
+[3] customized_vif_min (0xfc00) = 59.8 %RH
+[4] customized_vif_max (0xfc00) = 59.92 %RH
+[5] external_temperature (0x65) = 22.1 °C
+[6] external_temperature_min (0x65) = 22.06 °C
+[7] external_temperature_max (0x65) = 22.1 °C
+[8] avg_duration (0x72) = 0 h
+[9] external_temperature_err (0x65) = 0 °C
+[10] external_temperature_err (0x65) = 0 °C
+[11] fab_number (0x78) = 2.40082e+07
+[12] software_version (0xfd0f) = 198917
