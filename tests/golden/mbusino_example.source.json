@@ -1,0 +1,14 @@
+{
+  "name": "mbusino_example",
+  "bytes": 202,
+  "declared_length": 196,
+  "records": 30,
+  "error_code": 0,
+  "checksum": "0xFB (valid)",
+  "manufacturer": "WZG",
+  "id": "29079172",
+  "medium": "0x16 Cold water",
+  "address": 20,
+  "src": "MBusinoLib/examples/MbusinoLibExample/MbusinoLibExample.ino:15 (the commented-out alternative to the active Engelmann telegram)",
+  "note": "Longest telegram with 30 records (storage 1..6, status and error records, date type G). The original test_decode harness only provides a 4096 byte JSON buffer and truncates here; the golden file was therefore produced with a wrapper that runs identical code but uses a 262144 byte buffer (for the four shorter telegrams the result is byte-identical, see tools/README.md)."
+}

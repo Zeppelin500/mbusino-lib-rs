@@ -1,0 +1,17 @@
+{
+  "hex": "42 6C DF 2C",
+  "records_decoded": 1,
+  "error_code": 0,
+  "records": [
+    {
+      "vif": "0x6c",
+      "code": 24,
+      "value_scaled": 20221231.0,
+      "value_string": "2022-12-31",
+      "units": "YYYYMMDD",
+      "name": "time_point",
+      "storage": 1
+    }
+  ],
+  "source": "excerpt from the EFE heat meter (tests/golden/efe_heat_meter.hex)"
+}

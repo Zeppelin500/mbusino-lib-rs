@@ -1,0 +1,25 @@
+{
+  "hex": "68 53 53 68 08 02 72 11 82 00 24 96 15 16 00 20 00 00 00 01 FD 1B 00 02 FC 03 48 52 25 74 62 17 22 FC 03 48 52 25 74 5C 17 12 FC 03 48 52 25 74 68 17 02 65 A2 08 22 65 9E 08 12 65 A2 08 01 72 00 72 65 00 00 B2 01 65 00 00 0C 78 11 82 00 24 03 FD 0F 05 09 03 1F 9F 16",
+  "header_ok": true,
+  "header": {
+    "len": 83,
+    "c_field": 8,
+    "address": 2,
+    "ci_field": 114,
+    "id": "24008211",
+    "manufacturer": "ELV",
+    "version": 22,
+    "medium_code": 0,
+    "medium": "Unknown",
+    "access_counter": 32,
+    "status": 0,
+    "status_details": {
+      "battery_low": false,
+      "permanent_error": false,
+      "temporary_error": false,
+      "app_status": "no_error"
+    },
+    "signature": 0
+  },
+  "source": "real golden telegram tests/golden/hw_thermostat.hex"
+}

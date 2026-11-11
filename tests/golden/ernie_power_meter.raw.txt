@@ -1,0 +1,135 @@
+Slave Address: 101
+Records decoded: 16
+Error code: 0
+
+[
+  {
+    "vif": "0x2b",
+    "code": 13,
+    "value_scaled": 35638,
+    "units": "W",
+    "name": "power_L1",
+    "subUnit": 1
+  },
+  {
+    "vif": "0x2b",
+    "code": 13,
+    "value_scaled": 32022,
+    "units": "W",
+    "name": "power_L2",
+    "subUnit": 1
+  },
+  {
+    "vif": "0x2b",
+    "code": 13,
+    "value_scaled": 30394,
+    "units": "W",
+    "name": "power_L3",
+    "subUnit": 1
+  },
+  {
+    "vif": "0x2b",
+    "code": 13,
+    "value_scaled": 1814,
+    "units": "W",
+    "name": "power_L1",
+    "subUnit": 2
+  },
+  {
+    "vif": "0x2b",
+    "code": 13,
+    "value_scaled": 3492,
+    "units": "W",
+    "name": "power_L2",
+    "subUnit": 2
+  },
+  {
+    "vif": "0x2b",
+    "code": 13,
+    "value_scaled": 2918,
+    "units": "W",
+    "name": "power_L3",
+    "subUnit": 2
+  },
+  {
+    "vif": "0xfd3a",
+    "code": 56,
+    "value_scaled": 0.999,
+    "name": "generic_L1"
+  },
+  {
+    "vif": "0xfd3a",
+    "code": 56,
+    "value_scaled": 0.993,
+    "name": "generic_L2"
+  },
+  {
+    "vif": "0xfd3a",
+    "code": 56,
+    "value_scaled": 0.995,
+    "name": "generic_L3"
+  },
+  {
+    "vif": "0xfd48",
+    "code": 57,
+    "value_scaled": 400.9,
+    "units": "V",
+    "name": "voltage_N"
+  },
+  {
+    "vif": "0xfd48",
+    "code": 57,
+    "value_scaled": 402.3,
+    "units": "V",
+    "name": "voltage_L1-L2"
+  },
+  {
+    "vif": "0xfd48",
+    "code": 57,
+    "value_scaled": 402.4,
+    "units": "V",
+    "name": "voltage_L2-L3"
+  },
+  {
+    "vif": "0xfd59",
+    "code": 58,
+    "value_scaled": 43.6,
+    "units": "A",
+    "name": "current_N"
+  },
+  {
+    "vif": "0xff5a",
+    "code": 122,
+    "value_scaled": 500,
+    "name": "manufactur_specific"
+  },
+  {
+    "vif": "0xfd3a",
+    "code": 56,
+    "value_scaled": 200,
+    "name": "generic"
+  },
+  {
+    "vif": "0xfd3a",
+    "code": 56,
+    "value_scaled": 10,
+    "name": "generic"
+  }
+]
+
+[1] power_L1 (0x2b) = 35638 W
+[2] power_L2 (0x2b) = 32022 W
+[3] power_L3 (0x2b) = 30394 W
+[4] power_L1 (0x2b) = 1814 W
+[5] power_L2 (0x2b) = 3492 W
+[6] power_L3 (0x2b) = 2918 W
+[7] generic_L1 (0xfd3a) = 0.999
+[8] generic_L2 (0xfd3a) = 0.993
+[9] generic_L3 (0xfd3a) = 0.995
+[10] voltage_N (0xfd48) = 400.9 V
+[11] voltage_L1-L2 (0xfd48) = 402.3 V
+[12] voltage_L2-L3 (0xfd48) = 402.4 V
+[13] current_N (0xfd59) = 43.6 A
+[14] manufactur_specific (0xff5a) = 500
+[15] generic (0xfd3a) = 200
+[16] generic (0xfd3a) = 10

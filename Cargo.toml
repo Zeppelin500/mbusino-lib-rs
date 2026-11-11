@@ -1,0 +1,24 @@
+[package]
+name = "mbusino-lib-rs"
+version = "0.1.0"
+edition = "2021"
+license = "GPL-3.0-or-later"
+description = "Rust port of MBusinoLib, the Arduino M-Bus (Meterbus) RSP_UD decoder"
+readme = "README.md"
+keywords = ["mbus", "meterbus", "en13757", "decoder", "arduino"]
+categories = ["encoding", "embedded"]
+publish = false
+
+[lib]
+name = "mbusino_lib_rs"
+path = "src/lib.rs"
+
+# No runtime dependencies on purpose: the crate is dependency free.
+[dependencies]
+
+[dev-dependencies]
+serde_json = "1"
+
+[[example]]
+name = "decode"
+path = "examples/decode.rs"

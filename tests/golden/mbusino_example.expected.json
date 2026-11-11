@@ -1,0 +1,258 @@
+{
+  "slave_address": 20,
+  "records_decoded": 30,
+  "error_code": 0,
+  "records": [
+    {
+      "vif": "0x13",
+      "code": 3,
+      "value_scaled": 0.395,
+      "units": "m³",
+      "name": "volume"
+    },
+    {
+      "vif": "0x6d",
+      "code": 25,
+      "value_scaled": 202602132000.0,
+      "value_string": "2026-02-13 20:30:00",
+      "units": "YYYYMMDDhhmm",
+      "name": "time_point"
+    },
+    {
+      "vif": "0x6c",
+      "code": 24,
+      "value_scaled": 20000000.0,
+      "value_string": "2000-00-00",
+      "units": "YYYYMMDD",
+      "name": "time_point",
+      "storage": 1
+    },
+    {
+      "vif": "0x13",
+      "code": 3,
+      "value_scaled": 0,
+      "units": "m³",
+      "name": "volume",
+      "storage": 1
+    },
+    {
+      "vif": "0x6c",
+      "code": 24,
+      "value_scaled": 20260623.0,
+      "value_string": "2026-06-23",
+      "units": "YYYYMMDD",
+      "name": "time_point",
+      "storage": 1
+    },
+    {
+      "vif": "0x78",
+      "code": 34,
+      "value_scaled": 61053320.0,
+      "name": "fab_number"
+    },
+    {
+      "vif": "0x6c",
+      "code": 24,
+      "value_scaled": 20250630.0,
+      "value_string": "2025-06-30",
+      "units": "YYYYMMDD",
+      "name": "time_point",
+      "storage": 2
+    },
+    {
+      "vif": "0x13",
+      "code": 3,
+      "value_scaled": 0,
+      "units": "m³",
+      "name": "volume",
+      "storage": 2
+    },
+    {
+      "vif": "0x6c",
+      "code": 24,
+      "value_scaled": 20250731.0,
+      "value_string": "2025-07-31",
+      "units": "YYYYMMDD",
+      "name": "time_point",
+      "storage": 3
+    },
+    {
+      "vif": "0x13",
+      "code": 3,
+      "value_scaled": 0,
+      "units": "m³",
+      "name": "volume",
+      "storage": 3
+    },
+    {
+      "vif": "0x6c",
+      "code": 24,
+      "value_scaled": 20250831.0,
+      "value_string": "2025-08-31",
+      "units": "YYYYMMDD",
+      "name": "time_point",
+      "storage": 4
+    },
+    {
+      "vif": "0x13",
+      "code": 3,
+      "value_scaled": 0,
+      "units": "m³",
+      "name": "volume",
+      "storage": 4
+    },
+    {
+      "vif": "0x6c",
+      "code": 24,
+      "value_scaled": 20250930.0,
+      "value_string": "2025-09-30",
+      "units": "YYYYMMDD",
+      "name": "time_point",
+      "storage": 5
+    },
+    {
+      "vif": "0x13",
+      "code": 3,
+      "value_scaled": 0,
+      "units": "m³",
+      "name": "volume",
+      "storage": 5
+    },
+    {
+      "vif": "0x6c",
+      "code": 24,
+      "value_scaled": 20251031.0,
+      "value_string": "2025-10-31",
+      "units": "YYYYMMDD",
+      "name": "time_point",
+      "storage": 6
+    },
+    {
+      "vif": "0x13",
+      "code": 3,
+      "value_scaled": 0,
+      "units": "m³",
+      "name": "volume",
+      "storage": 6
+    },
+    {
+      "vif": "0x6c",
+      "code": 24,
+      "value_scaled": 20251130.0,
+      "value_string": "2025-11-30",
+      "units": "YYYYMMDD",
+      "name": "time_point",
+      "storage": 7
+    },
+    {
+      "vif": "0x13",
+      "code": 3,
+      "value_scaled": 0,
+      "units": "m³",
+      "name": "volume",
+      "storage": 7
+    },
+    {
+      "vif": "0x6c",
+      "code": 24,
+      "value_scaled": 20251231.0,
+      "value_string": "2025-12-31",
+      "units": "YYYYMMDD",
+      "name": "time_point",
+      "storage": 8
+    },
+    {
+      "vif": "0x13",
+      "code": 3,
+      "value_scaled": 0.169,
+      "units": "m³",
+      "name": "volume",
+      "storage": 8
+    },
+    {
+      "vif": "0x6c",
+      "code": 24,
+      "value_scaled": 20260131.0,
+      "value_string": "2026-01-31",
+      "units": "YYYYMMDD",
+      "name": "time_point",
+      "storage": 9
+    },
+    {
+      "vif": "0x13",
+      "code": 3,
+      "value_scaled": 0.342,
+      "units": "m³",
+      "name": "volume",
+      "storage": 9
+    },
+    {
+      "vif": "0x6c",
+      "code": 24,
+      "value_scaled": 20000000.0,
+      "value_string": "2000-00-00",
+      "units": "YYYYMMDD",
+      "name": "time_point",
+      "storage": 10
+    },
+    {
+      "vif": "0x13",
+      "code": 3,
+      "value_scaled": 0,
+      "units": "m³",
+      "name": "volume",
+      "storage": 10
+    },
+    {
+      "vif": "0x6c",
+      "code": 24,
+      "value_scaled": 20000000.0,
+      "value_string": "2000-00-00",
+      "units": "YYYYMMDD",
+      "name": "time_point",
+      "storage": 11
+    },
+    {
+      "vif": "0x13",
+      "code": 3,
+      "value_scaled": 0,
+      "units": "m³",
+      "name": "volume",
+      "storage": 11
+    },
+    {
+      "vif": "0x6c",
+      "code": 24,
+      "value_scaled": 20000000.0,
+      "value_string": "2000-00-00",
+      "units": "YYYYMMDD",
+      "name": "time_point",
+      "storage": 12
+    },
+    {
+      "vif": "0x13",
+      "code": 3,
+      "value_scaled": 0,
+      "units": "m³",
+      "name": "volume",
+      "storage": 12
+    },
+    {
+      "vif": "0x6c",
+      "code": 24,
+      "value_scaled": 20000000.0,
+      "value_string": "2000-00-00",
+      "units": "YYYYMMDD",
+      "name": "time_point",
+      "storage": 13
+    },
+    {
+      "vif": "0x13",
+      "code": 3,
+      "value_scaled": 0,
+      "units": "m³",
+      "name": "volume",
+      "storage": 13
+    }
+  ]
+}

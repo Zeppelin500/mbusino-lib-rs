@@ -1,0 +1,14 @@
+{
+  "name": "elster",
+  "bytes": 37,
+  "declared_length": 31,
+  "records": 2,
+  "error_code": 0,
+  "checksum": "0xCC in the telegram, 0xCF would be correct - INVALID",
+  "manufacturer": "ELS",
+  "id": "12345678",
+  "medium": "0x03 Gas",
+  "address": 0,
+  "src": "MBusino/archive/telegram_test/telegram_test.ino:96 (commented out, line comment \"Elster\")",
+  "note": "SOURCE DEFECT, kept on purpose: the checksum does not match (the sum of the bytes from the C field yields 0xCF but the telegram contains 0xCC - probably a typo when it was copied). The C++ original does not check checksums and decodes it anyway; decode_telegram() reports it as frame[\"ok\"] = False. The ID 12345678 and the customer name \"123AB\" show that this is a test telegram. Covers the ASCII path (DIF 0x0D)."
+}

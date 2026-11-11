@@ -1,0 +1,259 @@
+Slave Address: 0
+Records decoded: 29
+Error code: 0
+
+[
+  {
+    "vif": "0x78",
+    "code": 34,
+    "value_scaled": 7.3753409e7,
+    "name": "fab_number"
+  },
+  {
+    "vif": "0x6",
+    "code": 1,
+    "value_scaled": 1.0666e7,
+    "units": "Wh",
+    "name": "energy"
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 7708.992,
+    "units": "m³",
+    "name": "volume"
+  },
+  {
+    "vif": "0x2b",
+    "code": 13,
+    "value_scaled": 0,
+    "units": "W",
+    "name": "power"
+  },
+  {
+    "vif": "0x2b",
+    "code": 13,
+    "value_scaled": 62268,
+    "units": "W",
+    "name": "power_max"
+  },
+  {
+    "vif": "0x3b",
+    "code": 15,
+    "value_scaled": 1.608,
+    "units": "m³/h",
+    "name": "volume_flow"
+  },
+  {
+    "vif": "0x3b",
+    "code": 15,
+    "value_scaled": 3.662,
+    "units": "m³/h",
+    "name": "volume_flow_max"
+  },
+  {
+    "vif": "0x5b",
+    "code": 19,
+    "value_scaled": 25,
+    "units": "°C",
+    "name": "flow_temperature"
+  },
+  {
+    "vif": "0x5f",
+    "code": 20,
+    "value_scaled": 25,
+    "units": "°C",
+    "name": "return_temperature"
+  },
+  {
+    "vif": "0x61",
+    "code": 21,
+    "value_scaled": -0.06,
+    "units": "K",
+    "name": "temperature_diff"
+  },
+  {
+    "vif": "0x23",
+    "code": 8,
+    "value_scaled": 2220,
+    "units": "d",
+    "name": "on_time"
+  },
+  {
+    "vif": "0x6d",
+    "code": 25,
+    "value_scaled": 2.02310171e11,
+    "value_string": "2023-10-17 10:03:00",
+    "units": "YYYYMMDDhhmm",
+    "name": "time_point"
+  },
+  {
+    "vif": "0x6",
+    "code": 1,
+    "value_scaled": 3218000,
+    "units": "Wh",
+    "name": "energy",
+    "storage": 1
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 1874.733,
+    "units": "m³",
+    "name": "volume",
+    "storage": 1
+  },
+  {
+    "vif": "0x6c",
+    "code": 24,
+    "value_scaled": 2.0221231e7,
+    "value_string": "2022-12-31",
+    "units": "YYYYMMDD",
+    "name": "time_point",
+    "storage": 1
+  },
+  {
+    "vif": "0xfd17",
+    "code": 47,
+    "value_scaled": 0,
+    "name": "error_flags"
+  },
+  {
+    "vif": "0xfd0c",
+    "code": 41,
+    "value_scaled": 5,
+    "name": "model_version"
+  },
+  {
+    "vif": "0x6",
+    "code": 1,
+    "value_scaled": 26000,
+    "units": "Wh",
+    "name": "energy",
+    "tariff": 1
+  },
+  {
+    "vif": "0x6",
+    "code": 1,
+    "value_scaled": 5000,
+    "units": "Wh",
+    "name": "energy",
+    "storage": 1,
+    "tariff": 1
+  },
+  {
+    "vif": "0x6",
+    "code": 1,
+    "value_scaled": 0,
+    "units": "Wh",
+    "name": "energy",
+    "tariff": 2
+  },
+  {
+    "vif": "0x6",
+    "code": 1,
+    "value_scaled": 0,
+    "units": "Wh",
+    "name": "energy",
+    "storage": 1,
+    "tariff": 2
+  },
+  {
+    "vif": "0x6",
+    "code": 1,
+    "value_scaled": 0,
+    "units": "Wh",
+    "name": "energy",
+    "tariff": 3
+  },
+  {
+    "vif": "0x6",
+    "code": 1,
+    "value_scaled": 0,
+    "units": "Wh",
+    "name": "energy",
+    "storage": 1,
+    "tariff": 3
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0,
+    "units": "m³",
+    "name": "volume",
+    "subUnit": 1
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0,
+    "units": "m³",
+    "name": "volume",
+    "subUnit": 1,
+    "storage": 1
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0,
+    "units": "m³",
+    "name": "volume",
+    "subUnit": 2
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0,
+    "units": "m³",
+    "name": "volume",
+    "subUnit": 2,
+    "storage": 1
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0,
+    "units": "m³",
+    "name": "volume",
+    "subUnit": 3
+  },
+  {
+    "vif": "0x13",
+    "code": 3,
+    "value_scaled": 0,
+    "units": "m³",
+    "name": "volume",
+    "subUnit": 3,
+    "storage": 1
+  }
+]
+
+[1] fab_number (0x78) = 7.37534e+07
+[2] energy (0x6) = 1.0666e+07 Wh
+[3] volume (0x13) = 7708.99 m³
+[4] power (0x2b) = 0 W
+[5] power_max (0x2b) = 62268 W
+[6] volume_flow (0x3b) = 1.608 m³/h
+[7] volume_flow_max (0x3b) = 3.662 m³/h
+[8] flow_temperature (0x5b) = 25 °C
+[9] return_temperature (0x5f) = 25 °C
+[10] temperature_diff (0x61) = -0.06 K
+[11] on_time (0x23) = 2220 d
+[12] time_point (0x6d) = 2023-10-17 10:03:00 YYYYMMDDhhmm
+[13] energy (0x6) = 3.218e+06 Wh
+[14] volume (0x13) = 1874.73 m³
+[15] time_point (0x6c) = 2022-12-31 YYYYMMDD
+[16] error_flags (0xfd17) = 0
+[17] model_version (0xfd0c) = 5
+[18] energy (0x6) = 26000 Wh
+[19] energy (0x6) = 5000 Wh
+[20] energy (0x6) = 0 Wh
+[21] energy (0x6) = 0 Wh
+[22] energy (0x6) = 0 Wh
+[23] energy (0x6) = 0 Wh
+[24] volume (0x13) = 0 m³
+[25] volume (0x13) = 0 m³
+[26] volume (0x13) = 0 m³
+[27] volume (0x13) = 0 m³
+[28] volume (0x13) = 0 m³
+[29] volume (0x13) = 0 m³

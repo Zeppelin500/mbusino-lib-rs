@@ -1,0 +1,14 @@
+{
+  "name": "ernie_power_meter",
+  "bytes": 164,
+  "declared_length": 158,
+  "records": 16,
+  "error_code": 0,
+  "checksum": "0x8B (valid)",
+  "manufacturer": "IME",
+  "id": "00067609",
+  "medium": "0x02 Electricity",
+  "address": 101,
+  "src": "MBusino/playground/MBusino_ernie/MBusino_ernie.ino:514 (commented out); identical bytes also in playground/mqttTest/mqttTest.ino:517, playground/MBusino_64car/MBusino_64car.ino:514, src/MBusino/MBusino.ino:690, src/MBusino5S/MBusino5S.ino:871, src/MBusinoNano/MBusinoNano.ino:749, archive/eth/MBusinoNano_MBusCom/MBusinoNano_MBusCom.ino:353",
+  "note": "Three-phase / active-energy meter (Electricity) with power, voltage and current records including phase VIFEs (0xFC/0xFF + L1/L2/L3/N) and subUnit/tariff DIFEs. Ends with the 0x0F marker -> covers the \"manufacturer specific\" abort in decodeRecords() (line 648)."
+}

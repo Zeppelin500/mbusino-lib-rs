@@ -1,0 +1,15 @@
+{
+  "hex": "01 13 39",
+  "records_decoded": 1,
+  "error_code": 0,
+  "records": [
+    {
+      "vif": "0x13",
+      "code": 3,
+      "value_scaled": 0.057,
+      "units": "m³",
+      "name": "volume"
+    }
+  ],
+  "source": "MBusinoLib/test/aunit/test.cpp testF(DecoderTest, Number_2)"
+}
