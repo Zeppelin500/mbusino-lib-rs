@@ -4,7 +4,7 @@
 //! decodes M-Bus (Meterbus, EN 13757) `RSP_UD` telegrams - the answer a slave
 //! sends to the master.
 //!
-//! The port follows the C++ original (`MBusinoLib`, version 0.10.0, GPL-3.0)
+//! The port follows the C++ original (`MBusinoLib`, version 0.11.0, GPL-3.0)
 //! function by function. The blueprint is the verified 1:1 Python port
 //! `MBusinoLibPy`, whose golden references were produced by the *unmodified*
 //! C++ library; this crate reproduces the same output (see `tests/`).
