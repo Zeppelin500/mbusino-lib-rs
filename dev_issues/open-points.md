@@ -1,6 +1,6 @@
 # Open points - mbusino-lib-rs port
 
-Things noticed while porting **MBusinoLib 0.10.0** to Rust. The blueprint was
+Things noticed while porting **MBusinoLib 0.11.0** to Rust. The blueprint was
 the verified 1:1 Python port
 [**MBusinoLibPy**](https://github.com/Zeppelin500/MBusinoLibPy), whose golden
 references were produced by the *unmodified* C++ library.

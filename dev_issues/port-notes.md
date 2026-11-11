@@ -1,6 +1,6 @@
 # Development notes - mbusino-lib-rs port
 
-Internal notes from porting **MBusinoLib 0.10.0** to Rust. This file is for
+Internal notes from porting **MBusinoLib 0.11.0** to Rust. This file is for
 us, the developers - not for end users. The user documentation lives in the
 [root README](../README.md); the folder index is [README.md](README.md) and
 the list of still-open issues found while porting is
@@ -8,7 +8,7 @@ the list of still-open issues found while porting is
 
 **`mbusino-lib-rs`** is a function-by-function Rust port of the Arduino
 library [**MBusinoLib**](https://github.com/Zeppelin500/MBusinoLib)
-(version 0.10.0, GPL-3.0). It decodes M-Bus (Meterbus, EN 13757) `RSP_UD`
+(version 0.11.0, GPL-3.0). It decodes M-Bus (Meterbus, EN 13757) `RSP_UD`
 telegrams - the answer a slave sends to the master.
 
 The **blueprint is not the C++ directly** but the verified 1:1 Python port
